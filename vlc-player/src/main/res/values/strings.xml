@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VLC</string>
+    <string name="tv_time_default">0:00</string>
+</resources>
